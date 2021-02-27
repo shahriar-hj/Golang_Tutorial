@@ -1,9 +1,13 @@
 package main
 
-import "fmt"
-
+import (
+	"math"
+	"fmt"
+)
 func main() {
-
+	math.const(
+	name = 21
+	)
 	var num1 int = 9
 	var num2 int = 4
 	// + - / * % ()
